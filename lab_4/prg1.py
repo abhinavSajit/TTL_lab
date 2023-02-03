@@ -4,4 +4,4 @@
 a = int(input("enter no: "))
 
 for i in range(a, 1, -2):
-    print(i)
+    print(i, end=" ")
