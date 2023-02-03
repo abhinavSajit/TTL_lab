@@ -1,0 +1,19 @@
+1.wap a program in ptyhton to enter ea 3 digit number form the keyboard anf check if it is palindrome or not wtihout using loop
+2 Wap a to enter 5 integers from the keyboard and find out the smallest one using multiple if statement
+3.wap to enter the marks of a student in four subjects then calculate the total mark and percentage also assign the grade as per the following criteria
+    if % >90 grade='o'
+    if % >80 <90 grade='e'
+4. implement q3 using switch case statement
+5.wap to enter a number form the keyboard and find out the reverse of it
+6.wap to check the given number is perfect or not
+7.wap to check the given number is abstract number or not 
+8.wap to generate fibonacci series upto n terms
+9.wap to generate the following pattern
+    1
+    1 2 
+    1 2 3 4
+
+10. 1
+    2 3
+    4 5 6
+    7 8 9 10

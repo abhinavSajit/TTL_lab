@@ -1,0 +1,11 @@
+1.WAP in python to print the following number series
+                n,n-2,n-4,......
+2.WAP in python to input a string and display it and also find out length of it.
+3.WAP in python to input a string and display reverse of it.
+4.wap in python to check the given string is palindrome string or not
+5.wap in python to retrive the substring of a string.
+6.WAP in python to input 2 strings and concatenate them also repeat the particular string for n number of times
+7.wap in python to check a particular substring is available within a string or not aslo print the given string as it is.
+8.wap in python to input 3 strings and try to delete one of the strings . also check the types of the string and the address of the strings.(use id(string_var_name) fro address)
+9 wap in python the sum of the escape sequence characters
+10.wap in python to demonstrate teh pre defined string functions
