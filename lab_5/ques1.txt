@@ -1,0 +1,13 @@
+1.write a python program to find the 2nd largest and smallest element in a string
+2.wap to remove duplicates from a list
+3.wap to find out the index of a element in a specified list
+4.wap to append a list to another list
+5.wap to change the postion of nth element with n+1 element in the list.
+6.wap to remove the kth element and print the updated list.
+7.wap to print a specified list afte removing 2nd and 5th index element
+8.wap to convert a list to a tuple.
+9.wap to find out multiplication of all the element present in a tuple.
+10.wap to convert a tuple of string value to integer values.
+
+11.wap to check the frequency of a psecific element within tuple.
+12.wap to create a tuple eith nested tuple or list and access and print the element of nested tuple and list.
