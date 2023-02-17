@@ -1,4 +1,4 @@
-# 12.wap to create a tuple eith nested tuple or list and access and print the element of nested tuple and list.
+# 12.wap to create a tuple with nested tuple or list and access and print the element of nested tuple or list.
 
 a = ()
 b = []
@@ -22,5 +22,7 @@ for i in range(n):
         a.append(b)
         a = tuple(a)
 
-
 print(a)
+for i in a:
+    if (type(i) is list):
+        print(i)
