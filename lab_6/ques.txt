@@ -1,0 +1,10 @@
+1.Wap to check if any common element is present in two set or not
+2.wap to perform union , intersection and set difference on two sets.
+3.wap to check an entered value is present in the set or not
+4.wap that finds all pairs of element in list whoes sum is equal to a given value
+
+5.wap to multiply all the elements present in a dictionary
+6.wap to merge 2 dictionaries.
+7.wap to sort a given dictionary by its key
+8.wap to print all distinct values present in dictionary
+9.wap to convert a dictionary into list of list
